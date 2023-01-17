@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/2K/xw/MD5E-s26413--abd1707e21d6136b1cdafbbe24ddd2f1.cmd/MD5E-s26413--abd1707e21d6136b1cdafbbe24ddd2f1.cmd
+/annex/objects/MD5E-s26413--abd1707e21d6136b1cdafbbe24ddd2f1.cmd
