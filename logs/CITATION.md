@@ -1,6 +1,6 @@
 
 Results included in this manuscript come from preprocessing
-performed using *fMRIPrep* 22.0.2
+performed using *fMRIPrep* 22.1.0+0.gce344b39.dirty
 (@fmriprep1; @fmriprep2; RRID:SCR_016216),
 which is based on *Nipype* 1.8.5
 (@nipype1; @nipype2; RRID:SCR_002502).
