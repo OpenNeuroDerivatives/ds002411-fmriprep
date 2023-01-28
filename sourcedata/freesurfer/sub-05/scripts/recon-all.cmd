@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/fm/z3/MD5E-s26413--5d923ded290671c2044495592abb5a2a.cmd/MD5E-s26413--5d923ded290671c2044495592abb5a2a.cmd
+/annex/objects/MD5E-s26413--5d923ded290671c2044495592abb5a2a.cmd
