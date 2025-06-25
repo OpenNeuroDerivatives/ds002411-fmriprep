@@ -1,0 +1,9 @@
+Warning: Permanently added 'c174-111' (ED25519) to the list of known hosts.
+WARNING (11/09/22 07:01:34): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4982219.hostlist.zW9y0mnA to get hosts
+starting job on c174-111
+starting job on c176-121
+starting job on c176-123
+starting job on c179-174
+slurmstepd: error: *** JOB 4982219 ON c174-111 CANCELLED AT 2022-11-09T11:24:43 ***
+Terminated

@@ -1,0 +1,268 @@
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-tei2m8ui because the default path (/home/fmriprep/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+You are using fMRIPrep-22.1.0+0.gce344b39.dirty, and a newer version of fMRIPrep is available: 22.1.1.
+Please check out our documentation about how and when to upgrade:
+https://fmriprep.readthedocs.io/en/latest/faq.html#upgrading
+--topup-max-vols input is no longer used and the flag will be removed in a future release.
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+Fontconfig error: No writable cache directories
+/opt/conda/lib/python3.9/site-packages/nitransforms/base.py:207: UserWarning: Reference space not set
+  warnings.warn("Reference space not set")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/sdcflows/transform.py:398: UserWarning: Image's and B-Spline's grids are not aligned.
+  warn("Image's and B-Spline's grids are not aligned.")
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nitransforms/base.py:207: UserWarning: Reference space not set
+  warnings.warn("Reference space not set")
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nitransforms/base.py:207: UserWarning: Reference space not set
+  warnings.warn("Reference space not set")
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nitransforms/base.py:207: UserWarning: Reference space not set
+  warnings.warn("Reference space not set")
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nitransforms/base.py:207: UserWarning: Reference space not set
+  warnings.warn("Reference space not set")
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nitransforms/base.py:207: UserWarning: Reference space not set
+  warnings.warn("Reference space not set")
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nitransforms/base.py:207: UserWarning: Reference space not set
+  warnings.warn("Reference space not set")
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nipype/algorithms/confounds.py:1203: FutureWarning: `rcond` parameter will change to the default of machine precision times ``max(M, N)`` where M and N are the input matrix dimensions.
+To use the future default and silence this warning we advise to pass `rcond=None`, to keep using the old, explicitly pass `rcond=-1`.
+  betas = np.linalg.lstsq(X, data.T)[0]
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nilearn/input_data/__init__.py:27: FutureWarning: The import path 'nilearn.input_data' is deprecated in version 0.9. Importing from 'nilearn.input_data' will be possible at least until release 0.13.0. Please import from 'nilearn.maskers' instead.
+  warnings.warn(message, FutureWarning)
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:435: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  aroma_icstats = pd.read_csv(aroma_icstats, header=None, sep='  ')[[0, 1]] / 100
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nilearn/input_data/__init__.py:27: FutureWarning: The import path 'nilearn.input_data' is deprecated in version 0.9. Importing from 'nilearn.input_data' will be possible at least until release 0.13.0. Please import from 'nilearn.maskers' instead.
+  warnings.warn(message, FutureWarning)
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:435: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  aroma_icstats = pd.read_csv(aroma_icstats, header=None, sep='  ')[[0, 1]] / 100
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:558: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  colnames = data.columns.ravel().tolist()
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:558: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  colnames = data.columns.ravel().tolist()
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:558: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  colnames = data.columns.ravel().tolist()
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:558: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  colnames = data.columns.ravel().tolist()
+/opt/conda/lib/python3.9/site-packages/nilearn/input_data/__init__.py:27: FutureWarning: The import path 'nilearn.input_data' is deprecated in version 0.9. Importing from 'nilearn.input_data' will be possible at least until release 0.13.0. Please import from 'nilearn.maskers' instead.
+  warnings.warn(message, FutureWarning)
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:558: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  colnames = data.columns.ravel().tolist()
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:435: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  aroma_icstats = pd.read_csv(aroma_icstats, header=None, sep='  ')[[0, 1]] / 100
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:558: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  colnames = data.columns.ravel().tolist()
+/opt/conda/lib/python3.9/site-packages/nilearn/input_data/__init__.py:27: FutureWarning: The import path 'nilearn.input_data' is deprecated in version 0.9. Importing from 'nilearn.input_data' will be possible at least until release 0.13.0. Please import from 'nilearn.maskers' instead.
+  warnings.warn(message, FutureWarning)
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:435: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  aroma_icstats = pd.read_csv(aroma_icstats, header=None, sep='  ')[[0, 1]] / 100
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/nilearn/input_data/__init__.py:27: FutureWarning: The import path 'nilearn.input_data' is deprecated in version 0.9. Importing from 'nilearn.input_data' will be possible at least until release 0.13.0. Please import from 'nilearn.maskers' instead.
+  warnings.warn(message, FutureWarning)
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:435: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  aroma_icstats = pd.read_csv(aroma_icstats, header=None, sep='  ')[[0, 1]] / 100
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+/opt/conda/lib/python3.9/site-packages/fmriprep/interfaces/confounds.py:435: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  aroma_icstats = pd.read_csv(aroma_icstats, header=None, sep='  ')[[0, 1]] / 100
+/opt/conda/lib/python3.9/site-packages/niworkflows/interfaces/utility.py:480: FutureWarning: In a future version of pandas all arguments of read_csv except for the argument 'filepath_or_buffer' will be keyword-only.
+  self._results["output"] = _tsv2json(
+Traceback (most recent call last):
+  File "/opt/conda/bin/fmriprep", line 8, in <module>
+    sys.exit(main())
+  File "/opt/conda/lib/python3.9/site-packages/fmriprep/cli/run.py", line 213, in main
+    failed_reports = generate_reports(
+  File "/opt/conda/lib/python3.9/site-packages/fmriprep/reports/core.py", line 96, in generate_reports
+    report_errors = [
+  File "/opt/conda/lib/python3.9/site-packages/fmriprep/reports/core.py", line 97, in <listcomp>
+    run_reports(
+  File "/opt/conda/lib/python3.9/site-packages/fmriprep/reports/core.py", line 79, in run_reports
+    return Report(
+  File "/opt/conda/lib/python3.9/site-packages/niworkflows/reports/core.py", line 436, in generate_report
+    (self.out_dir / self.out_filename).write_text(report_render, encoding="UTF-8")
+  File "/opt/conda/lib/python3.9/pathlib.py", line 1285, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors) as f:
+  File "/opt/conda/lib/python3.9/pathlib.py", line 1252, in open
+    return io.open(self, mode, buffering, encoding, errors, newline,
+  File "/opt/conda/lib/python3.9/pathlib.py", line 1120, in _opener
+    return self._accessor.open(self, flags, mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002411-fmriprep/sub-28.html'
